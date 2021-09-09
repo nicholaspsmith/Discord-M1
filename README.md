@@ -8,4 +8,4 @@ This Application is **Unofficial** Discord Application for Apple Silicon using E
 - 90% coverage (Voice Chatting, Screen Sharing)
 - Battery time Dramatically increased
 
-[Download](https://github.com/331leo/Discord-M1/releases/)
+[Download](https://www.dropbox.com/s/nb5zzua7hncpuew/Discord%20M1%2021.9.8.922.dmg?dl=0)
